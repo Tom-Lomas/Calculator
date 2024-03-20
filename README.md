@@ -4,4 +4,4 @@ This program is written in Java and mainly makes use of the JFrame class to crea
 
 This specific project is mostly useful for people who want a simple looking calculator that is capable of calculating multiple operations. This calculator can also be used to show some of the more basic capabilities of the JFrame class for GUI. The downside to JFrame is that it may be harder to get a more even looking GUI and once I learn more advanced GUI applications I would like to improve this.
 
-I wrote this program as a less experienced programmer and expect there to be some bugs that my testing did not find so if you find any bugs and would like to share them with me you can email me at tom.lomas90@gmail.com.
+I wrote this program as a less experienced programmer and expect there to be some bugs that my testing did not find so if you find any bugs and would like to share them with me you can email me at tomlomas@duck.com.
